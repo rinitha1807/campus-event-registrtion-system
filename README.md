@@ -8,6 +8,7 @@ College clubs conduct several technical and non-technical events throughout the 
 - Schedule clashes between events
 - Difficulty forming teams for hackathons and competitions
 - Poor communication between organizers and participants
+  
 Challenge:
 Design and develop a smart platform that simplifies event registration, participant management, attendance tracking, and event communication for both students and organizers
 Our Solution
@@ -91,29 +92,36 @@ The dashboard provides live analytics such as:
 - Department-wise Participation
 - Registration Statistics
  Technologies Used
+
 Frontend
 - React.js
 - HTML5
 - CSS3
 - JavaScript
 - Tailwind CSS
+  
 Backend
 - Node.js
 - Express.js
+  
 Database
 - MongoDB
 Authentication
 - Firebase Authentication / JWT
+  
 AI Recommendation
 - Python
 - Scikit-Learn
 - Reccommendation Algorithm
+  
 QR Code
 - QR Code Generator
-QR Scanner API
+ -QR Scanner API
+  
  Notifications
 - Firebase Cloud Messaging (FCM)
 - Email Notifications
+  
 Deployment
 - Vercel (Frontend)
 - Render / Railway (Backend)
